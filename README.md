@@ -16,6 +16,8 @@ I hope you enjoy the projects you'll see here 😆
   
 <br/>
 
+## See ya!
+
 > You should enjoy the little detours to the fullest.<br/> Because that's where you'll find the things more important than what you want. (F. Ging)
 
 
