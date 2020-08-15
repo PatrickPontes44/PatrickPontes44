@@ -14,8 +14,11 @@ I hope you enjoy the projects you'll see here 😆
   - [Instagram](https://www.instagram.com/patrick.pontess/) @patrick.pontess 📷
   - [LinkedIn](https://www.linkedin.com/in/patrick-p-62a79a138/) 📱
   
+<br/>
 
-> You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want. (F. Ging)
+> You should enjoy the little detours to the fullest.<br/> Because that's where you'll find the things more important than what you want. (F. Ging)
+
+
 <!--
 **PatrickPontes44/PatrickPontes44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
