@@ -8,11 +8,13 @@ I hope you enjoy the projects you'll see here 😆
   - But I also know a little bit of Python 🐍
   - And I'm looking forward my first real job experience with programming 👀
   
-  - I’m currently working on a GitHub repositories finder using Node.JS, React.JS, and MySQL as database 🔭
+  - I’m currently working on a GitHub repositories finder using Node.JS, React.JS (and Redux), and MySQL as database 🔭
 
 ## How to reach me 📫:
   - [Instagram](https://www.instagram.com/patrick.pontess/) @patrick.pontess 📷
   - [LinkedIn](https://www.linkedin.com/in/patrick-p-62a79a138/) 📱
+  - [CodePen](https://codepen.io/patrickpontes44) 🎨
+
   
 <br/>
 
