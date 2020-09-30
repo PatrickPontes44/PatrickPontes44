@@ -6,10 +6,13 @@ I hope you enjoy the projects you'll see here 😆
   - I'm 20 years old 😁
   - I’m currently learning Javascript with focus on Node.JS and React.JS 🌱
   - But I also know a little bit of Python 🐍
-  - And I'm looking forward my first real job experience with programming 👀
+  - And I'm looking for my first real job experience with programming 👀
 
 ### Currently working on 🔭:
   - A GitHub repositories finder using Node.JS, React.JS (and Redux), and MySQL as database.
+ 
+### Currently learning 📝:
+  - Sass
 
 ## How to reach me 📫:
   - [Instagram](https://www.instagram.com/patrick.pontess/) @patrick.pontess 📷
