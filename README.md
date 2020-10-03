@@ -11,7 +11,7 @@
 #### Currently working on 🔭:
   - A GitHub repositories finder using Node.JS, React.JS (and Redux), and MySQL as database.
  
-#### Tech I'm studying 📝:
+#### Other Techs I'm studying these days 📝:
   - Sass
 
 ### How to reach me 📫:
