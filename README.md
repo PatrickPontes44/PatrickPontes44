@@ -1,5 +1,4 @@
 # Hi there 👋 This is Patrick 🍀
-I hope you enjoy the projects you'll see here 😆
 
 ## I'm looking for my first programming job 👀 🥇
 
