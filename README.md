@@ -1,4 +1,4 @@
-# Hi there 👋 This is Patrick 🍀
+# Hi there 👋 Iam Patrick 🍀
 
 ## I'm looking for my first programming job 👀 🥇
 
