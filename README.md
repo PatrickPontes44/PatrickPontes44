@@ -7,6 +7,7 @@
 
 ### Currently working on 🔭:
   - A GitHub repositories finder using Node.JS, React.JS (and Redux), and MySQL as database.
+  - NLW Project
   
 ### Techs I know or I'm familiar with ⚙:
 <pre>
