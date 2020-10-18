@@ -19,6 +19,15 @@
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 </pre>
 
+#### Demo Projects:
+  - [**Barber Shop Landing Page** 09/2020](https://patrickpontes44.github.io/barbearia-landingpage/)
+  - [**Instagram Clone** 08/2020](https://patrickpontes44.github.io/Instagram-Clone/)
+  - [**Rolex Landing Page Clone** 06/2020](https://patrickpontes44.github.io/RolexLandingPage/)
+  - [**Simple Landing Page** 06/2020](https://patrickpontes44.github.io/LandingPage2/)
+  - [**Pixage - Images App** 05/2020](https://patrickpontes44.github.io/Pixage/)
+  - [**Pc Store Landing Page** 03/2020](https://patrickpontes44.github.io/PcStoreTemplate/)
+  
+
 
 ### How to reach me 📫:
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/patrick-p-62a79a138/)
