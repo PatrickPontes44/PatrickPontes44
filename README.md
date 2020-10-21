@@ -1,3 +1,8 @@
+<div align="center">
+<p align="center">
+  <img width="150" height="200" src="https://octodex.github.com/images/ironcat.jpg">
+</p>
+  
 # Hi, I am Patrick 🍀
 
 ## I'm looking for my first programming job 👀 🥇
@@ -39,6 +44,8 @@
 ### See ya!
 
 > You should enjoy the little detours to the fullest.<br/> Because that's where you'll find the things more important than what you want. (F. Ging)
+
+</div>
 
 
 <!--
