@@ -8,6 +8,8 @@
   ## I'm looking for my first programming job 👀 🥇
   
 </div>
+<br>
+
 ### About me 👇:
   I'm a brazilian junior developer 🌎, I'm 20 years old and I enjoy to create a lot of stuff.
 
