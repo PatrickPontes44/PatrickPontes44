@@ -1,12 +1,13 @@
-<div align="center">
 <p align="center">
   <img width="150" height="200" src="https://octodex.github.com/images/ironcat.jpg">
 </p>
+
+<div align="center">
   
-# Hi, I am Patrick 🍀
-
-## I'm looking for my first programming job 👀 🥇
-
+  # Hi, I am Patrick 🍀
+  ## I'm looking for my first programming job 👀 🥇
+  
+</div>
 ### About me 👇:
   I'm a brazilian junior developer 🌎, I'm 20 years old and I enjoy to create a lot of stuff.
 
@@ -44,8 +45,6 @@
 ### See ya!
 
 > You should enjoy the little detours to the fullest.<br/> Because that's where you'll find the things more important than what you want. (F. Ging)
-
-</div>
 
 
 <!--
