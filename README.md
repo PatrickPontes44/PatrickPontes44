@@ -29,7 +29,6 @@
 
 #### Demo Projects:
   - [**Barber Shop Landing Page** 09/2020](https://patrickpontes44.github.io/barbearia-landingpage/)
-  - [**Instagram Clone** 08/2020](https://patrickpontes44.github.io/Instagram-Clone/)
   - [**Rolex Landing Page Clone** 06/2020](https://patrickpontes44.github.io/RolexLandingPage/)
   - [**Simple Landing Page** 06/2020](https://patrickpontes44.github.io/LandingPage2/)
   - [**Pixage - Images App** 05/2020](https://patrickpontes44.github.io/Pixage/)
