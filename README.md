@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  
+ 
   # Hi, I am Patrick 🍀
   ## I'm looking for my first programming job 👀 🥇
   
@@ -11,7 +11,8 @@
 <br>
 
 ### About me 👇:
-  I'm a brazilian junior developer 🌎, I'm 20 years old and I enjoy to create a lot of stuff.
+  I'm a brazilian junior developer 🌎, I'm 20 years old and I enjoy to create a lot of stuff.<br/>
+  This is my [**Portfolio**](https://patrickpontes44.github.io/PortfolioReact/)
 
 ### Currently working on 🔭:
   - A GitHub repositories finder using Node.JS, React.JS (and Redux), and MySQL as database.
@@ -28,6 +29,7 @@
 </pre>
 
 #### Demo Projects:
+  - [**Portfolio** 01/2021](https://patrickpontes44.github.io/PortfolioReact/)
   - [**Barber Shop Landing Page** 09/2020](https://patrickpontes44.github.io/barbearia-landingpage/)
   - [**Rolex Landing Page Clone** 06/2020](https://patrickpontes44.github.io/RolexLandingPage/)
   - [**Simple Landing Page** 06/2020](https://patrickpontes44.github.io/LandingPage2/)
