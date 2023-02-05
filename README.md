@@ -11,12 +11,8 @@
 <br>
 
 ### About me 👇:
-  I'm a brazilian junior developer 🌎, I'm 20 years old and I enjoy to create a lot of stuff.<br/>
+  I'm a brazilian junior developer 🌎, I'm 23 years old and I enjoy creating a lot of stuff.<br/>
   This is my [**Portfolio**](https://patrickpontes44.github.io/PortfolioReact/)
-
-### Currently working on 🔭:
-  - A GitHub repositories finder using Node.JS, React.JS (and Redux), and MySQL as database.
-  - A website with CSS Generators
   
 ### Techs I know or I'm familiar with ⚙:
 <pre>
