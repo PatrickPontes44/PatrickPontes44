@@ -5,7 +5,6 @@
 <div align="center">
  
   # Hi, I am Patrick 🍀
-  ## I'm looking for my first programming job 👀 🥇
   
 </div>
 <br>
