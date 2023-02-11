@@ -30,7 +30,7 @@
   - [**Simple Landing Page** 06/2020](https://patrickpontes44.github.io/LandingPage2/)
   - [**Pixage - Images App** 05/2020](https://patrickpontes44.github.io/Pixage/)
   - [**Pc Store Landing Page** 03/2020](https://patrickpontes44.github.io/PcStoreTemplate/)
-  - [**Vue Pokédex** 03/2020](https://patrickpontes44.github.io/pokedex-vue/)
+  - [**Vue Pokédex** 02/2023](https://patrickpontes44.github.io/pokedex-vue/)
   
 
 
