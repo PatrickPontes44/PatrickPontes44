@@ -31,6 +31,7 @@
   - [**Pixage - Images App** 05/2020](https://patrickpontes44.github.io/Pixage/)
   - [**Pc Store Landing Page** 03/2020](https://patrickpontes44.github.io/PcStoreTemplate/)
   - [**Vue Pokédex** 02/2023](https://patrickpontes44.github.io/pokedex-vue/)
+  - [**NextJS Voice Translator** 02/2023](https://patrickpontes44.github.io/voice-translator/)
   
 
 
