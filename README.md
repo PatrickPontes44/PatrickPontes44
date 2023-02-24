@@ -10,7 +10,7 @@
 <br>
 
 ### About me 👇:
-  I'm a brazilian junior developer 🌎, I'm 23 years old and I enjoy creating a lot of stuff.<br/>
+  I'm a brazilian web developer 🌎, I'm 23 years old and I enjoy creating a lot of stuff.<br/>
   This is my [**Portfolio**](https://patrickpontes44.github.io/PortfolioReact/)
   
 ### Techs I know or I'm familiar with ⚙:
