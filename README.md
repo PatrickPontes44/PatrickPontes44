@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="200" src="https://octodex.github.com/images/NUX_Octodex.gif">
+  <img width="150" height="200" src="https://octodex.github.com/images/yogitocat.png">
 </p>
 
 <div align="center">
