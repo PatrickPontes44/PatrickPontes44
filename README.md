@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="200" src="https://octodex.github.com/images/yogitocat.png">
+  <img width="150" height="200" src="https://octodex.github.com/images/spidertocat.png">
 </p>
 
 <div align="center">
