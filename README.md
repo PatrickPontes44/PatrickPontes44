@@ -16,7 +16,6 @@
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/patrick-pontes
 )
   [<img src="https://img.shields.io/badge/Codepen-000000?&style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/patrickpontes44)
-  [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/patrick.d.pontes/)
   
 <br/>
 
