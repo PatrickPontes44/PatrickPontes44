@@ -10,7 +10,7 @@
 <br>
 
 ### About me 👇:
-  I'm a brazilian web developer 🌎, I'm 25 years old and I am the creator of the channel [Front Enzo](https://www.youtube.com/@front_enzo).<br/>
+  I'm a 25 years old brazilian web developer 🌎<br/>
 
 ### How to reach me 📫:
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/patrick-pontes
