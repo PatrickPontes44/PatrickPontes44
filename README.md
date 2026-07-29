@@ -10,7 +10,7 @@
 <br>
 
 ### About me 👇:
-  I'm a 25 years old brazilian web developer 🌎<br/>
+  I'm a 26 years old, brazilian web developer 🌎<br/>
 
 ### How to reach me 📫:
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/patrick-pontes
